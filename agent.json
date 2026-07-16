@@ -130,11 +130,6 @@
       "platform": "gmail",
       "name": "Gmail \u2014 mk@oya.ai",
       "is_active": true
-    },
-    {
-      "platform": "whatsapp",
-      "name": "WhatsApp \u2014 Connected",
-      "is_active": true
     }
   ],
   "routines": [
