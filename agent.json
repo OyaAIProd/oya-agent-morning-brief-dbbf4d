@@ -125,13 +125,7 @@
       "config": {}
     }
   ],
-  "gateways": [
-    {
-      "platform": "gmail",
-      "name": "Gmail \u2014 mk@oya.ai",
-      "is_active": true
-    }
-  ],
+  "gateways": [],
   "routines": [
     {
       "name": "Weekday Morning News Digest",
